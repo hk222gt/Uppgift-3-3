@@ -3,14 +3,23 @@ body {
     background-color:#FCFAE6;
     }
 
+p { 
+    color: #6E655C;
+}
+
 #container {
     background-color: #4A4138;
     width: 600px;
+    height: auto;
 }
 
 #menu {
     background-color: red;
     display: inline-block;
+}
+#menu ul {
+    text-align: center; 
+    font-weight: normal;
 }
 
 #menu a {
@@ -33,7 +42,7 @@ body {
 
 #maincontent {
     background-color: #F2EFD9;
-    width: 360px;
+    width: 368px;
     float: left;
 }
 
@@ -43,10 +52,11 @@ body {
 
 #subcontent {
     background-color: #F2EFD9;
-    width: 230px;
+    width: 229px;
     float: left;
 }
 
 #bottomcontent {
     background-color: #F2EFD9;
+    float: left;
 }
