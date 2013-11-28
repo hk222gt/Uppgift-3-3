@@ -1,1 +1,28 @@
 /* Denna fil får du editera för att lösa uppgiften. Du får INTE ändra i html-filen. */
+body {
+    background-color:#FCFAE6;
+    }
+
+#container {
+    background-color: #4A4138;
+}
+
+#topbar {
+    background-color: #4C433A;
+}
+
+#content {
+    background-color: #D6CDC0;
+}
+
+#maincontent {
+    background-color: #F2EFD9;
+}
+
+#subcontent {
+    background-color: #F2EFD9;
+}
+
+#bottomcontent {
+    background-color: #F2EFD9;
+}
