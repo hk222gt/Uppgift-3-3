@@ -37,6 +37,10 @@ body {
     float: left;
 }
 
+#maincontent img {
+    float:left;
+}
+
 #subcontent {
     background-color: #F2EFD9;
     width: 230px;
