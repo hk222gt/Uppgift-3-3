@@ -22,21 +22,25 @@ body {
     background-image:url('pics/coffey.jpg');
     width: 600px;
     height: 215px;
+    color: #F2EFD9;
+    font-family: verdana;
+    font-size: 8px;
 }
 
 #content {
     background-color: #D6CDC0;
-    width:590;
 }
 
 #maincontent {
     background-color: #F2EFD9;
     width: 360px;
+    float: left;
 }
 
 #subcontent {
     background-color: #F2EFD9;
     width: 230px;
+    float: left;
 }
 
 #bottomcontent {
