@@ -5,6 +5,7 @@ body {
 
 #container {
     background-color: #4A4138;
+    width: 600px;
 }
 
 #menu {
@@ -12,8 +13,14 @@ body {
     display: inline-block;
 }
 
+#menu a {
+    display: none;
+}
+
 #topbar {
     background-color: #4C433A;
+    background-image:url('pics/coffey.jpg');
+    width: 600px;
 }
 
 #content {
