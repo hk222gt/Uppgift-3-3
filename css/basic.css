@@ -59,4 +59,9 @@ p {
 #bottomcontent {
     background-color: #F2EFD9;
     float: left;
+    width: 600px;
+    font-style: verdana;
+    overflow: auto;
+    font-size: 10px;
+    
 }
