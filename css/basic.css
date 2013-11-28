@@ -26,14 +26,17 @@ body {
 
 #content {
     background-color: #D6CDC0;
+    width:590;
 }
 
 #maincontent {
     background-color: #F2EFD9;
+    width: 360px;
 }
 
 #subcontent {
     background-color: #F2EFD9;
+    width: 230px;
 }
 
 #bottomcontent {
