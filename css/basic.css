@@ -16,14 +16,13 @@ p {
 #menu {
     background-color: red;
     display: inline-block;
+    height: 35px;
 }
 #menu ul {
     text-align: center; 
     font-weight: normal;
 }
 
-#menu a {
-    display: none;
 }
 
 #topbar {
@@ -48,6 +47,12 @@ p {
 
 #maincontent img {
     float:left;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+#maincontent h1 {
+    font-style: times new roman
 }
 
 #subcontent {
