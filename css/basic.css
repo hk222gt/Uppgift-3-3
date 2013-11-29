@@ -64,6 +64,7 @@ p {
     width: 368px;
     float: left;
     min-height: 360px;
+    
 }
 
 #maincontent img {
@@ -81,6 +82,7 @@ p {
     width: 229px;
     float: left;
     min-height: 368px;
+    padding-top: 25px;
 }
 
 #bottomcontent {
@@ -97,5 +99,11 @@ p {
     padding-bottom: 10px;
     text-indent: 10px;
     
-    
 }
+
+#subcontent ul {
+    font-family: verdana;
+    font-weight: lighter;
+    list-style: none;
+}
+
