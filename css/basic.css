@@ -112,3 +112,14 @@ p {
     font-size: 12px;
 }
 
+#maincontent h1 {
+    font-style: times new roman;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+
+#subcontent h1 {
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 100;
+}
