@@ -105,5 +105,10 @@ p {
     font-family: verdana;
     font-weight: lighter;
     list-style: none;
+    margin-left: -30px;
+}
+
+#subcontent ul li a {
+    font-size: 12px;
 }
 
