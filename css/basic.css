@@ -36,7 +36,6 @@ p {
     font-family: verdana, sans-serif;
 }
 
-}
 
 #topbar {
     background-color: #4C433A;
@@ -46,6 +45,12 @@ p {
     color: #F2EFD9;
     font-family: verdana;
     font-size: 8px;
+    text-align:right;
+    font-style: italic;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    font-weight: 100;
+    
 }
 
 #content {
