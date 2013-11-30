@@ -38,6 +38,10 @@ p {
 #menu ul li a {
     display: block;
     font-family: verdana, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+    text-align: center;
+    margin-left: 1px;
 }
 
 
@@ -63,7 +67,7 @@ p {
 
 #maincontent {
     background-color: #F2EFD9;
-    width: 368px;
+    width: 363px;
     float: left;
     min-height: 360px;
     border-right: 1px dashed #c0c0c0;
@@ -83,7 +87,7 @@ p {
 
 #subcontent {
     background-color: #F2EFD9;
-    width: 229px;
+    width: 233px;
     float: left;
     min-height: 368px;
     padding-top: 25px;
