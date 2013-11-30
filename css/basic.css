@@ -46,6 +46,8 @@ p {
     margin-left: 1px;
     padding-bottom: 10px;
     padding-top: 9px;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
 
@@ -71,7 +73,7 @@ p {
 
 #maincontent {
     background-color: #F2EFD9;
-    width: 363px;
+    width: 367px;
     float: left;
     min-height: 360px;
     border-right: 1px dashed #c0c0c0;
@@ -91,7 +93,7 @@ p {
 
 #subcontent {
     background-color: #F2EFD9;
-    width: 233px;
+    width: 228px;
     float: left;
     min-height: 368px;
     padding-top: 25px;
