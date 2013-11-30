@@ -27,6 +27,8 @@ p {
     font-size: 14px;
     height: 30px;
     list-style: none;
+    margin-left: -30px;
+    margin-right: -30px;
 }
 
 #menu ul li {
@@ -64,7 +66,8 @@ p {
     width: 368px;
     float: left;
     min-height: 360px;
-    
+    border-right: 1px dashed #c0c0c0;
+    border-left: 1px solid;
 }
 
 #maincontent img {
@@ -84,6 +87,7 @@ p {
     float: left;
     min-height: 368px;
     padding-top: 25px;
+    border-right: 1px solid;
 }
 
 #bottomcontent {
