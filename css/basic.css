@@ -76,7 +76,7 @@ p {
     background-color: #F2EFD9;
     width: 367px;
     float: left;
-    min-height: 395px;
+    min-height: 330px;
     border-right: 1px dashed #c0c0c0;
     border-left: 1px solid;
     border-color: #cecab9;
@@ -98,7 +98,7 @@ p {
     background-color: #F2EFD9;
     width: 229px;
     float: left;
-    min-height: 370px;
+    min-height: 305px;
     padding-top: 25px;
     border-right: 1px solid;
     border-color: #cecab9;
@@ -107,7 +107,7 @@ p {
 #bottomcontent {
     background-color: #F2EFD9;
     float: left;
-    width: 600px;
+    width: 597px;
     font-style: verdana;
     overflow: auto;
     font-size: 10px;
@@ -166,6 +166,7 @@ h2 {
     font-weight: 100;
     line-height: 20px;
 }
+
 
 #menu a {
     display: none;
