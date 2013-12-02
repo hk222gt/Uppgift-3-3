@@ -49,6 +49,7 @@ p {
     padding-right: 15px;
     padding-left: 15px;
     text-transform: capitalize;
+    color: #eae7d2;
 }
 
 
@@ -125,10 +126,12 @@ p {
     font-weight: lighter;
     list-style: none;
     margin-left: -30px;
+    color: #51473d;
 }
 
 #subcontent ul li a {
     font-size: 12px;
+    color: #51473d;
 }
 
 #maincontent h1 {
@@ -170,4 +173,8 @@ h2 {
 
 #menu a {
     display: none;
+}
+
+#menu ul li a:hover {
+    color: #eae7d2;
 }
