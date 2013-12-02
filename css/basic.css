@@ -183,6 +183,11 @@ h2 {
     background-color: #9c9084;
 }
 
+#menu .active a {
+    color: #888076;
+    background-color: #eae7d2;
+}
+
 h2 {
     color: #51473d;
 }
