@@ -16,7 +16,7 @@ p {
 }
 
 #menu {
-    background-color: red;
+    background-color: #797066;
     display: inline-block;
     height: 35px;
 }
@@ -177,4 +177,5 @@ h2 {
 
 #menu ul li a:hover {
     color: #eae7d2;
+    background-color: #9c9084;
 }
