@@ -50,6 +50,7 @@ p {
     padding-left: 15px;
     text-transform: capitalize;
     color: #eae7d2;
+    background-color: #797066;
 }
 
 
@@ -187,5 +188,9 @@ h2 {
 }
 
 #subcontent h1 {
+    color: #797066;
+}
+
+#maincontent h1 {
     color: #797066;
 }
