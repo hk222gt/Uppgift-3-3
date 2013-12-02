@@ -76,9 +76,11 @@ p {
     background-color: #F2EFD9;
     width: 367px;
     float: left;
-    min-height: 368px;
+    min-height: 395px;
     border-right: 1px dashed #c0c0c0;
     border-left: 1px solid;
+    border-color: #cecab9;
+   
 }
 
 #maincontent img {
@@ -94,11 +96,12 @@ p {
 
 #subcontent {
     background-color: #F2EFD9;
-    width: 228px;
+    width: 229px;
     float: left;
-    min-height: 368px;
+    min-height: 370px;
     padding-top: 25px;
     border-right: 1px solid;
+    border-color: #cecab9;
 }
 
 #bottomcontent {
