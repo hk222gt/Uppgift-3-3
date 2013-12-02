@@ -48,6 +48,7 @@ p {
     padding-top: 9px;
     padding-right: 15px;
     padding-left: 15px;
+    text-transform: capitalize;
 }
 
 
@@ -75,7 +76,7 @@ p {
     background-color: #F2EFD9;
     width: 367px;
     float: left;
-    min-height: 360px;
+    min-height: 368px;
     border-right: 1px dashed #c0c0c0;
     border-left: 1px solid;
 }
@@ -161,4 +162,8 @@ h2 {
     text-align: left;
     font-weight: 100;
     line-height: 20px;
+}
+
+#menu a {
+    display: none;
 }
