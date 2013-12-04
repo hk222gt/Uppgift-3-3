@@ -45,7 +45,7 @@ p {
     font-weight: lighter;
     text-align: center;
     margin-left: 1px;
-    padding-bottom: 10px;
+    padding-bottom: 12px;
     padding-top: 9px;
     padding-right: 22px;
     padding-left: 22px;
@@ -79,9 +79,9 @@ p {
 
 #maincontent {
     background-color: #F2EFD9;
-    width: 367px;
+    width: 368px;
     float: left;
-    min-height: 360px;
+    min-height: 390px;
     border-right: 1px dashed #c0c0c0;
     border-left: 1px solid;
     border-color: #cecab9;
@@ -113,7 +113,7 @@ p {
     background-color: #F2EFD9;
     float: left;
     width: 597px;
-    font-style: verdana;
+    font-style: italic;
     overflow: auto;
     font-size: 10px;
     border-bottom: 1px solid;
@@ -123,7 +123,6 @@ p {
     padding-bottom: 8px;
     text-indent: 10px;
     font-family: verdana;
-    font-style: italic;   
     margin-top: -5px;
     color: #6E655C;
     
