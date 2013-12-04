@@ -46,7 +46,7 @@ p {
     font-weight: lighter;
     text-align: center;
     margin-left: 1px;
-    padding-bottom: 12px;
+    padding-bottom: 10px;
     padding-top: 9px;
     padding-right: 22px;
     padding-left: 22px;
@@ -85,8 +85,8 @@ p {
     float: left;
     min-height: 300px;
     border-right: 1px dashed #c0c0c0;
-    border-left: 1px solid;
     border-color: #cecab9;
+    
     
 }
 
@@ -105,9 +105,7 @@ p {
     width: 229px;
     float: left;
     min-height: 374px;
-    padding-top: 20px;
-    border-right: 1px solid;
-    border-color: #cecab9;
+    padding-top: 25px;
     
 }
 
@@ -118,10 +116,6 @@ p {
     font-style: italic;
     overflow: auto;
     font-size: 10px;
-    border-bottom: 1px solid;
-    border-right: 1px solid;
-    border-left: 1px solid;
-    border-color: #D6D2C0;
     padding-bottom: 15px;
     text-indent: 10px;
     font-family: verdana;
@@ -157,7 +151,6 @@ p {
 
 h2 {
     font-size: 14px;
-    padding-top: 25px;
     font-weight: 100;
     margin-left: 10px;
     color: #51473d;
@@ -183,7 +176,7 @@ h2 {
     font-weight: lighter;
     line-height: 20px;
     color: #797066;
-    padding-top: 2px;
+    padding-top: -25px;
 }
 
 
