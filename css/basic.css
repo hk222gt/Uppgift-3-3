@@ -10,9 +10,10 @@ p {
 #container {
     background-color: #4A4138;
     width: 600px;
-   
     margin-left: auto;
     margin-right: auto;
+    overflow: auto;
+    border: solid 1px #cecab9;
 }
 
 #menu {
@@ -74,7 +75,8 @@ p {
 }
 
 #content {
-    background-color: #D6CDC0;
+    background-color: #F2EFD9;
+    padding-top:20px;
 }
 
 #maincontent {
@@ -158,6 +160,8 @@ h2 {
     padding-top: 25px;
     font-weight: 100;
     margin-left: 10px;
+    color: #51473d;
+    margin-bottom: -20px;
 }
 
 #subcontent p {
@@ -195,11 +199,6 @@ h2 {
 #menu .active a {
     color: #888076;
     background-color: #eae7d2;
-}
-
-h2 {
-    color: #51473d;
-    margin-bottom: -20px;
 }
 
 #subcontent h1 {
