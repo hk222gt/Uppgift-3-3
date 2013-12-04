@@ -10,7 +10,7 @@ p {
 #container {
     background-color: #4A4138;
     width: 600px;
-    height: auto;
+   
     margin-left: auto;
     margin-right: auto;
 }
@@ -81,7 +81,7 @@ p {
     background-color: #F2EFD9;
     width: 368px;
     float: left;
-    min-height: 390px;
+    min-height: 300px;
     border-right: 1px dashed #c0c0c0;
     border-left: 1px solid;
     border-color: #cecab9;
@@ -120,10 +120,10 @@ p {
     border-right: 1px solid;
     border-left: 1px solid;
     border-color: #D6D2C0;
-    padding-bottom: 8px;
+    padding-bottom: 15px;
     text-indent: 10px;
     font-family: verdana;
-    margin-top: -5px;
+    margin-top: -20px;
     color: #6E655C;
     
 }
