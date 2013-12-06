@@ -46,7 +46,7 @@ p {
     font-weight: lighter;
     text-align: center;
     margin-left: 1px;
-    padding-bottom: 10px;
+    padding-bottom: 12px;
     padding-top: 9px;
     padding-right: 22px;
     padding-left: 22px;
@@ -81,12 +81,12 @@ p {
 
 #maincontent {
     background-color: #eae7d2;
-    width: 354px;
+    width: 389px;
     float: left;
-    min-height: 300px;
+    height: 369px;
     border-right: 1px dashed #c0c0c0;
     border-color: #cecab9;
-    padding-right: 15px;
+    
     
 }
 
@@ -98,12 +98,11 @@ p {
 
 #subcontent {
     background-color: #eae7d2;
-    width: 209px;
+    width: 210px;
     float: left;
     min-height: 364px;
     padding-top: 25px;
-    padding-right: 15px;
-    padding-left: 5px;
+    
 }
 
 #bottomcontent {
