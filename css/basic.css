@@ -8,7 +8,7 @@ p {
 }
 
 #container {
-    background-color: #51473d;
+    background-color: #eae7d2;
     width: 600px;
     margin-left: auto;
     margin-right: auto;
@@ -17,7 +17,8 @@ p {
 }
 
 #menu {
-    
+    width:600px;
+    background-color: #51473d;
     display: inline-block;
     height: 35px;
 }
@@ -46,7 +47,7 @@ p {
     font-weight: lighter;
     text-align: center;
     margin-left: 1px;
-    padding-bottom: 12px;
+    padding-bottom: 8px;
     padding-top: 9px;
     padding-right: 22px;
     padding-left: 22px;
@@ -98,7 +99,7 @@ p {
 
 #subcontent {
     background-color: #eae7d2;
-    width: 210px;
+    width: 209px;
     float: left;
     min-height: 364px;
     padding-top: 25px;
